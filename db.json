@@ -1,22 +1,22 @@
 {
     "users": [
         {
-            "tipnumber": 1,
+            "id": 1,
             "name": "Chase Webb"
         },
         {
-            "tipnumber": 2,
+            "id": 2,
             "name": "John Tester"
         }
     ],
     "details": [
         {
-            "tipnumber": 1,
+            "id": 1,
             "horsename": "Silver Arrow",
             "wins": 30
         },
         {
-            "tipnumber": 2,
+            "id": 2,
             "horsename": "Ole Red",
             "wins": 30
         }
